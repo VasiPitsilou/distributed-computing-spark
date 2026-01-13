@@ -1,6 +1,8 @@
 # Computation of MBA players statistics using Apache Spark
 
+<p align="center">
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/84b85f9e-c6e9-4a11-b24a-071840f5d16e" />
+</p>
 
 Program that outputs statistics of MBA players that result from analyzing gigabytes of data including the players' position coordinates, four times a second. 
 Apache Spark is used, building was performed with Maven.
