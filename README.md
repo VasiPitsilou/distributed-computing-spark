@@ -13,4 +13,5 @@ Compute the players' instantaneous speed and classify their runs into slow, norm
 Count the number of offensive and defensive rebounds for each player and determine the location of the farthest rebound from the basket for each player. Output results in `rebounds.csv` file.
 
 
-The project was completed for the Big Data Analytics Programming course, Master of Artificial Intelligence, KU Leuven (2024-2025).
+_The project was completed for the Big Data Analytics Programming course, Master of Artificial Intelligence, KU Leuven (2024-2025).
+_
